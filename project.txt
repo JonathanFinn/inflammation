@@ -8,3 +8,5 @@ Samit is a statistician
 We need to identify who is responsible for what
 Need programmer
 Let's get Roberto he knows about unfortunate rashes and such
+
+The programmer needs to be familiar with Pandas
