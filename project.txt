@@ -1,2 +1,8 @@
 Project:
-A data analysis project to explore patient inflammationchanges over time
+A data analysis project to explore patient inflammation changes over time
+
+People: 
+Jane is a data scientist
+Samit is a statistician
+
+We need to identify who is responsible for what
